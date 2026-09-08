@@ -1,0 +1,35 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": true,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260908-194041-mwgk",
+      "title": "Sonnen Moun",
+      "commanders": [
+        "Sonnen Moun"
+      ],
+      "guild": {
+        "id": "59D2F5A6-4DD4-4D23-B87A-F835FD0B73A0",
+        "name": "Alliance Of Elona",
+        "tag": "AoE"
+      },
+      "dateStart": "2026-09-08T17:40:41.000Z",
+      "dateEnd": "2026-09-08T18:28:58.499Z",
+      "dateLabel": "8.9.2026, 19:40:41 - 8.9.2026, 20:28:58",
+      "url": "https://SilvaSinar.github.io/ArcBridgeSilva/?report=20260908-194041-mwgk",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 11,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 34
+      }
+    }
+  ]
+}
