@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260912-190814-7gw3",
+      "title": "Tigris Silvestré",
+      "commanders": [
+        "Tigris Silvestré"
+      ],
+      "guild": {
+        "id": "59D2F5A6-4DD4-4D23-B87A-F835FD0B73A0",
+        "name": "Alliance Of Elona",
+        "tag": "AoE"
+      },
+      "dateStart": "2026-09-12T17:08:14.000Z",
+      "dateEnd": "2026-09-12T17:53:04.879Z",
+      "dateLabel": "12.9.2026, 19:08:14 - 12.9.2026, 19:53:04",
+      "url": "https://SilvaSinar.github.io/ArcBridgeSilva/?report=20260912-190814-7gw3",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260911-204733-jw5m",
       "title": "Tigris Silvestré",
       "commanders": [
